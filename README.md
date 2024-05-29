@@ -5,7 +5,6 @@
 <a href='https://docs.google.com/document/d/1aZBPOLlNkgTa4JCOWtMX_Czcy9--4VeQecfh1onBCVU/edit?usp=sharing'>Resume</a><p></p><a href
 </div>
 
-[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/jeffrey-kintner)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-kintner/)
 ___
 | I | Build | Apps | With | These |
