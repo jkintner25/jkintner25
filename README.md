@@ -1,10 +1,6 @@
 <h1 align='center'>I'm Jeffrey 👋</h1>
 <h3 align='center'>Welcome to my Github.</h3>
 
-<div align='center'>
-<a href='https://docs.google.com/document/d/1aZBPOLlNkgTa4JCOWtMX_Czcy9--4VeQecfh1onBCVU/edit?usp=sharing'>Resume</a><p></p><a href
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-kintner/)
 ___
 | I | Build | Apps | With | These |
